@@ -6,13 +6,13 @@ so these are the most polished ones.
 
 C#
 --
-![ ](https://github.com/tekkub/failpanda/raw/master/csharp_filejoiner.png)
+![ ](https://github.com/joux3/pet_projects/raw/master/csharp_filejoiner.png)
 (source available in this repository)
-![ ](https://github.com/tekkub/failpanda/raw/master/csharp_nettivisiohelper.png)
+![ ](https://github.com/joux3/pet_projects/raw/master/csharp_nettivisiohelper.png)
 (source available in this repository)
 Java
 ----
-![ ](https://github.com/tekkub/failpanda/raw/master/csharp_nettivisiohelper.png)
+![ ](https://github.com/joux3/pet_projects/raw/master/java_cardgame.png)
 Project at https://github.com/joux3/cardgame
 Ruby
 ----
