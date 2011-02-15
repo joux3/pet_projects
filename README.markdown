@@ -19,3 +19,7 @@ Ruby
 WANG (Web Access with No Grief) HTTP Library contributor  
 [github project](https://github.com/kamu/wang)  
 Commits from joux3/joujoujou are mine
+Web 2.0
+-------
+[HSL Stopmap](http://hsl-stopmap.appspot.com/)  
+Backend Python on Google App Engine. Google Maps & jQuery frontend
