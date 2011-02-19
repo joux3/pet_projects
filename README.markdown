@@ -13,12 +13,13 @@ C#
 Java
 ----
 ![ ](https://github.com/joux3/pet_projects/raw/master/java_cardgame.png)  
+Java game system with a dedicated server & client. Uses [Apache MINA](http://mina.apache.org/) to do networking  
 Project at [github](https://github.com/joux3/cardgame)
 Ruby
 ----
 WANG (Web Access with No Grief) HTTP Library contributor  
 [github project](https://github.com/kamu/wang)  
-Commits from joux3/joujoujou are mine
+A small pure Ruby HTTP library that supports keep-alive, cookies and proxies. Commits from joux3/joujoujou are mine
 Web 2.0
 -------
 [HSL Stopmap](http://hsl-stopmap.appspot.com/)  
