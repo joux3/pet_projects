@@ -22,5 +22,5 @@ WANG (Web Access with No Grief) HTTP Library contributor
 A small pure Ruby HTTP library that supports keep-alive, cookies and proxies. Commits from joux3/joujoujou are mine
 Web 2.0
 -------
-[HSL Stopmap](http://hsl-stopmap.appspot.com/)  
-Backend Python on Google App Engine. Google Maps & jQuery frontend
+[HSL Stopmap](http://hsl-stopmap.heroku.com/)  
+Backend Ruby & Async Sinatra on Heroku, MongoDB on MongoLab. Google maps on client side
