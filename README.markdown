@@ -8,10 +8,12 @@ C#
 --
 ![ ](https://github.com/joux3/pet_projects/raw/master/csharp_filejoiner.png)  
 (source available in this repository)  
+
 ![ ](https://github.com/joux3/pet_projects/raw/master/csharp_nettivisiohelper.png)  
 (source available in this repository)
+
 ![ ](https://github.com/joux3/pet_projects/raw/master/wp_stopmap.png)  
-A simple HSL stopmap written for WP7. 
+A simple HSL stopmap written for WP7. Sorry, no sauce.
 Java
 ----
 ![ ](https://github.com/joux3/pet_projects/raw/master/java_cardgame.png)  
@@ -22,9 +24,8 @@ Ruby
 * WANG (Web Access with No Grief) HTTP Library contributor  
   * [github project](https://github.com/kamu/wang)  
   * A small pure Ruby HTTP library that supports keep-alive, cookies and proxies. Commits from joux3/joujoujou are mine
-
-
 * A (very) quick and dirty implementation of regular expressions on Ruby using NFAs. Source available in this repository
+
 Web 2.0
 -------
 [HSL Stopmap](http://hsl-stopmap.heroku.com/)  
